@@ -14,3 +14,4 @@
 ## BigInt: larger integers than the number type can hold
 
 ### Javascript has dynamic type: We do not have to manually define the data type of the value stored in a variable. Instead, data types are determined automatically
+
